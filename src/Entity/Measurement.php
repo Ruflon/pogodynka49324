@@ -79,4 +79,6 @@ class Measurement
 
         return $this;
     }
+
 }
+
